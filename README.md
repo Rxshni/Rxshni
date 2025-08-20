@@ -1,89 +1,67 @@
-# Hi, I'm Roshni
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-banner-link.gif" alt="Roshni J Banner" width="100%" />
+</p>
 
-**Final Year CS Student (AIML Specialization) @ Presidency University, Bangalore**  
-**Samsung Innovation Campus Scholar**  
-Passionate about **AI, Intelligent Systems, and Creative UI Design**  
-
----
-
-## 🌟 About Me  
-
-- 🎓 Pursuing **B.Tech in Computer Science (AI & ML specialization)**
-- **QuizWhiz** (my AI quiz generation app) was awarded **Top 4** in the *Samsung Innovation Campus Hackathon*  
--    Currently exploring:
-
-  - **n8n** for workflow automation
-  -  **Google AI Tools**
-  - **AWS Cloud** for scalable applications  
-  - **AI Fundamentals** (Linear Algebra, Probability, Statistics, Calculus)  
-  - **AI Agents & Multi-Agent Systems**
-
-- 🏆 Selected among **40 students out of 1000+** for **Samsung Innovation Campus** after a competitive exam  
-
-- Outside tech: I enjoy **reading, creating art, and experimenting with unique UI/UX designs**  
+<h1 align="center">Hi, I'm Roshni </h1>
+<p align="center">
+  Samsung Innovation Campus Scholar | Ex-Intern at Infosys Springboard | Final Year CS Student (AIML) | Passionate about AI, Intelligent Systems
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+##  About Me  
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)  
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neondatabase&logoColor=white)  
-
-**AI/ML Tools**  
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)  
-![Pinecone](https://img.shields.io/badge/Pinecone-3776AB?style=for-the-badge&logo=pinecone&logoColor=white)  
-![ChromaDB](https://img.shields.io/badge/ChromaDB-4E44CE?style=for-the-badge&logo=database&logoColor=white)  
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ai&logoColor=white)  
-![Gemini API](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)  
-![Groq](https://img.shields.io/badge/Groq%20API-FF6F00?style=for-the-badge&logo=ai&logoColor=white)  
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white)  
-
-**Tools & IDEs**  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
+-  **Final-year Computer Science student** specializing in **AI & ML** at Presidency University, Bangalore  
+-  Selected among **40 students out of 1000+** for **Samsung Innovation Campus**  
+-  My project **QuizWhiz** was awarded **Top 4** in the Samsung Innovation Campus Hackathon  
+-  Exploring **AI Agents, Multi-Agent Systems, AWS, n8n** & strengthening math foundations (Linear Algebra, Probability, Statistics, Calculus)  
+-  I love **art, reading, and experimenting with UI/UX** to make products stand out  
 
 ---
 
-## 📂 Featured Projects  
+##  Tech Stack  
 
-### 🔹 [DocQuery](https://github.com/Rxshni/docquery)  
-An **AI-powered RAG application** that lets you upload any PDF and ask natural language questions.  
-⚙️ *Tech:* Python, Flask, ChromaDB, LangChain (Text Chunking), Ollama (LLaMA3), Node.js, HTML/CSS/JS  
+Languages & Frameworks
+<p> <img src="https://skillicons.dev/icons?i=python,java,js,react,flask,nodejs" /> </p>
+Databases & Tools
+<p> <img src="https://skillicons.dev/icons?i=mysql,neon,vscode,pycharm" /> </p>
+AI / ML & Cloud
+<p><img src="https://img.shields.io/badge/ChromaDB-%234A90E2.svg?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-%2300B8D9.svg?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-%2343853D.svg?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000.svg?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Prompt%20Engineering-%23FF6F61.svg?&style=for-the-badge&logoColor=white" /> </p>
+---
+
+##  Projects  
+
+DocQuery
+
+AI-powered RAG app to query PDFs in natural language
+
+<p> <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-4A90E2" /> <img src="https://img.shields.io/badge/Ollama-000000" /> <img src="https://img.shields.io/badge/LangChain-43853D" /> <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JavaScript-yellow" /> </p>
+AI HR Agent
+
+Multi-agent AI system that approves/rejects leave requests based on business rules
+
+<p> <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-red?logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Groq%20API-purple" /> </p>
+QuizWhiz
+ 🏆 Top 4 at Samsung Innovation Campus Hackathon
+
+AI tool that generates quizzes from PDFs for students to learn interactively
+
+<p> <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini%20API-teal" /> <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/CSS-blue" /> <img src="https://img.shields.io/badge/JavaScript-yellow" /> <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white" /> </p>
+*(More projects 👉 [here](https://github.com/Rxshni?tab=repositories))* 
+
 
 ---
 
-### 🔹 [LOA - Leave Of Absence](https://github.com/Rxshni/ai-hr-agent)  
-An **AI Agent for HR** that automates leave approvals/rejections based on company business rules.  
-⚙️ *Tech:* Python, Streamlit, Groq API  
+##  Connect with me :)
+
+<p>
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
 
 ---
-
-### 🔹 [QuizWhiz](https://github.com/Rxshni/quizwhiz)  🏆 *Top 4 Hackathon Project* 
-A **student-powered learning app** where you upload a PDF, and AI generates quizzes to help you study.  
-⚙️ *Tech:* Python, Flask, Gemini API, Node.js, HTML/CSS/JS  
-
----
-
-*(More projects 👉 [here](https://github.com/Rxshni?tab=repositories))*  
-
----
-
----
-
-## Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/roshni-jayaraman-801074260)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshnijay04l@gmail.com)  
-
----
-
-✨ *"Building intelligent systems that combine logic, creativity, and innovation."*  
-
