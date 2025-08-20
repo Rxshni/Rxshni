@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://your-banner-link.gif" alt="Roshni J Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi, I'm Roshni </h1>
 <p align="center">
