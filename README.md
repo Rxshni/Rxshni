@@ -10,7 +10,7 @@
 
 -  **Final-year Computer Science student** specializing in **AI & ML** at Presidency University, Bangalore  
 -  Selected among **40 students out of 1000+** for **Samsung Innovation Campus**  
--  My project **QuizWhiz** was awarded **Top 4** in the Samsung Innovation Campus Hackathon  
+-  Our project **QuizWhiz** was awarded **Top 4** in the Samsung Innovation Campus Hackathon  
 -  Exploring **AI Agents, Multi-Agent Systems, AWS, n8n** & strengthening math foundations (Linear Algebra, Probability, Statistics, Calculus)  
 -  I love **art, reading, and experimenting with UI/UX** to make products stand out  
 
