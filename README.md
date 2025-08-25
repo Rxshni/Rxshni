@@ -31,7 +31,7 @@ AI / ML & Cloud
 ##  Connect with me :)
 
 <p>
-  <a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/roshni-jayaraman-801074260/)">
+  <a href="[https://linkedin.com/in/yourlinkedin]">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:roshnijay04@gmail.com">
