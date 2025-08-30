@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Roshni </h1>
 <p align="center">
-  Samsung Innovation Campus Scholar | Ex-Intern at Infosys Springboard | Final Year CS Student (AIML) | Passionate about AI, Intelligent Systems
+  Samsung Innovation Campus AIML Trainee | Ex-Intern at Infosys Springboard | Final Year CS Student (AIML) | Passionate about AI, Intelligent Systems
 </p>
 
 ---
